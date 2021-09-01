@@ -55,6 +55,9 @@ http://127.0.0.1:8080
 # Create a credential of type secret text with ID aws_access_key and the access key as the secret
 # Create a credential of type secret text with ID aws_secret_access_key and the access secret as the secret
 
+## Taken from consul GUI from U26
+	## Networking 6c52a519-b131-82e6-50f0-7d14cef8ab8b
+	## Application 4ac2567e-c393-231c-4c5f-0295bcfe60b7
 #Run the PowerShell script to get the plugin files
 .\getTerraformPlugin.ps1
 
